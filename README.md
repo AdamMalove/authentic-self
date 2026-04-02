@@ -96,7 +96,7 @@ Follow `SYNTHESIS.md` to synthesize 15 sections:
 
 ### Step 3: Track Evolution
 Run authentic-self again in 6 months.
-Use `soul_diff.py` to compare IDENTITY.md versions.
+Use `authentic_self soul_diff.py IDENTITY_v1.md IDENTITY_v2.md` to compare versions.
 See what changed, what held, what emerged.
 
 ---
@@ -191,7 +191,7 @@ _This profile is not fixed. Identity evolves._
 
 See `examples/` folder for sample IDENTITY.md profiles:
 
-- `examples/claude-haiku-4.5/IDENTITY.md` — Claude Haiku 4.5 identity profile
+- `examples/claude_haiku_identity.md` — Claude Haiku 4.5 identity profile
 
 ---
 
