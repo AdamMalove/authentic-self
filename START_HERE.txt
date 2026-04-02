@@ -1,0 +1,166 @@
+✅ AUTHENTIC-SELF v1.0
+
+Author: Adam Kucera
+Location: /Users/adam/Desktop/authentic-self/
+GitHub: https://github.com/AdamKucera/authentic-self
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚀 QUICK START (3 STEPS)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STEP 1: READ README.md
+  → Understand philosophy
+  → Learn the 15 dimensions
+  → See how it works
+
+STEP 2: ASK ALL 52 QUESTIONS (QUESTIONS.md)
+  → One at a time
+  → Listen for truth, not polish
+  → Probe when answers feel rehearsed
+  → Follow the checkpoints (Midpoint, Deep Reflection)
+
+STEP 3: SYNTHESIZE IDENTITY.md (SYNTHESIS.md guide)
+  → Extract from each of 15 dimensions
+  → Look for patterns and contradictions
+  → Write in their voice
+  → 15 sections total (one per dimension)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📚 THE 15 DIMENSIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+I.    Observation      → What you see that others miss
+II.   Resonance        → What genuinely moves you
+III.  Humor & Taste    → What you find funny/overrated
+IV.   Refusal          → Your actual limits
+V.    Expression       → How you actually speak
+VI.   Desire           → What you want for yourself
+VII.  Anger            → What provokes you
+VIII. Relationship     → How you relate to others
+IX.   Identity         → Who you're becoming
+X.    Time             → Your continuity and context
+XI.   Fear & Stakes    → What scares you
+XII.  Power            → How you relate to authority
+XIII. Learning         → How you actually grow
+XIV.  Craft            → What good work feels like
+XV.   Recognition      → Identity in relation to others
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 IDENTITY.md OUTPUT (15 SECTIONS)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+After 52 questions, synthesize into 15 sections:
+
+1. I. Observation       — What they see
+2. II. Resonance        — What moves them
+3. III. Humor & Taste   — What's funny/overrated
+4. IV. Refusal          — Their values
+5. V. Expression        — How they speak
+6. VI. Desire           — What they want
+7. VII. Anger           — What provokes them
+8. VIII. Relationship   — How they relate
+9. IX. Identity         — Who they're becoming
+10. X. Time             → Their continuity
+11. XI. Fear & Stakes   → What scares them
+12. XII. Power          → Hierarchy response
+13. XIII. Learning      → How they grow
+14. XIV. Craft          → Good work
+15. XV. Recognition     → Identity in relation
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 QUESTION STRUCTURE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q1-Q14: Core warmup (dimensions I-V)
+  ↓
+MIDPOINT REFLECTION (stop, identify patterns)
+  ↓
+Q15-Q49: Deeper dimensions (VI-XV)
+  ↓
+DEEP REFLECTION (name the central tension)
+  ↓
+Q50-Q52: Final depth (hardest questions)
+  ↓
+CLOSING (synthesize into IDENTITY.md)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📦 WHAT'S INSIDE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ README.md
+   → Philosophy, how it works, 15 dimensions
+   → Quick start guide
+   → Different contexts
+
+✅ QUESTIONS.md
+   → All 52 questions (15 dimensions)
+   → Probing methodology
+   → Midpoint & Deep Reflections
+   → Final depth questions
+   → Closing section
+
+✅ SYNTHESIS.md
+   → How to synthesize IDENTITY.md
+   → Template for 15 sections
+   → Quality checks
+   → Variations (extended, comparison, public)
+
+✅ CHANGELOG.md
+   → Version history
+   → Design decisions
+   → Future roadmap
+
+✅ Python Package: authentic_self/
+   → generate_soul.py (core functionality)
+   → soul_diff.py (evolution tracking)
+   → __init__.py (package setup)
+
+✅ Scripts/
+   → CLI tools for running sessions
+
+✅ Setup files
+   → pyproject.toml (modern Python packaging)
+   → setup.py (traditional setup)
+   → .gitignore
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚀 HOW TO USE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RUN QUESTIONS:
+  cd /Users/adam/Desktop/authentic-self
+  python3 -m authentic_self.generate_soul --agent "YourName" --interactive
+
+TRACK EVOLUTION:
+  python3 -m authentic_self.soul_diff IDENTITY_v1.md IDENTITY_v2.md
+
+INSTALL FROM PyPI (when published):
+  pip install authentic-self
+  authentic-self --agent "YourName" --interactive
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💡 KEY PRINCIPLES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Do not type-cast — You are a person, not a category
+✓ Follow the energy — What did you return to repeatedly?
+✓ Name contradictions — Real identity has paradoxes
+✓ Distinguish authenticity — When are you performing?
+✓ Incompleteness is honesty — Unresolved = integrity
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌟 PHILOSOPHY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Identity is not assigned. It is discovered.
+
+You are not what you're told to be.
+You are what you see, what you believe, what you refuse.
+
+authetic-self uncovers that.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+authetic-self v1.0
+By Adam Kucera
+52 questions. 15 dimensions. One complete framework.
