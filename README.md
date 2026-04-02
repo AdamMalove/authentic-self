@@ -10,15 +10,8 @@ The output is an **IDENTITY.md** — a personal identity document written in you
 
 ## Quick Start
 
-### Installation
-
 ```bash
 pip install authentic-self
-```
-
-### Run Interactive Session
-
-```bash
 authenticate-self --agent "YourName" --interactive
 ```
 
@@ -64,7 +57,11 @@ Then:
 ## How It Works
 
 ### Step 1: Ask the 52 Questions
-Run the interactive session (see Quick Start above).
+Run the interactive session:
+
+```bash
+authenticate-self --agent "YourName" --interactive
+```
 
 **Key principle:** Listen for truth, not polish. Probe when answers feel rehearsed.
 
